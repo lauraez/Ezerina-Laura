@@ -1,0 +1,29 @@
+tests152023-11-27 13:33:12LauraSigEksperimenta nosaukums: tests16, datums un laiks 2023-11-27 13:36:00, vārds:Laura, vieta:Sigulda
+Eksperimenta nosaukums: tests17, datums un laiks 2023-11-27 13:36:32, vārds:Laura, vieta:Sigulda
+Eksperimenta nosaukums: tests22, datums un laiks 2023-11-27 13:50:14, vārds:Laura, vieta:Sig
+Eksperimenta nosaukums: tests23, datums un laiks 2023-11-27 14:10:52, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests27, datums un laiks 2023-11-27 14:14:01, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests28, datums un laiks 2023-11-27 14:14:59, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests29, datums un laiks 2023-11-27 14:15:46, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests30, datums un laiks 2023-11-27 14:17:51, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests31, datums un laiks 2023-11-27 14:24:39, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests32, datums un laiks 2023-11-27 14:30:35, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests33, datums un laiks 2023-11-27 14:32:03, vārds:<built-in method capitalize of str object at 0x000002491ED010F0>, vieta:sig
+Eksperimenta nosaukums: tests34, datums un laiks 2023-11-27 14:33:15, vārds:<built-in method upper of str object at 0x00000276231710F0>, vieta:sig
+Eksperimenta nosaukums: tests35, datums un laiks 2023-11-28 13:12:20, vārds:Laura, vieta:sig
+Eksperimenta nosaukums: tests36, datums un laiks 2023-11-28 13:16:34, vārds:Laura, vieta:sig
+Eksperimenta nosaukums: tests37, datums un laiks 2023-11-28 13:18:11, vārds:None, vieta:sig
+Eksperimenta nosaukums: tests38, datums un laiks 2023-11-28 13:19:46, vārds:None, vieta:sig
+Eksperimenta nosaukums: tests39, datums un laiks 2023-11-28 13:20:22, vārds:None, vieta:sig
+Eksperimenta nosaukums: tests40, datums un laiks 2023-11-28 13:21:05, vārds:None, vieta:sig
+Eksperimenta nosaukums: tests41, datums un laiks 2023-11-28 13:22:04, vārds:None, vieta:sig
+Eksperimenta nosaukums: tests43, datums un laiks 2023-11-28 13:23:25, vārds:None, vieta:sig
+Eksperimenta nosaukums: tests42, datums un laiks 2023-11-28 13:24:12, vārds:None, vieta:sigulda
+Eksperimenta nosaukums: tests44, datums un laiks 2023-11-28 13:24:55, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests45, datums un laiks 2023-11-28 13:25:36, vārds:Laura, vieta:sig
+Eksperimenta nosaukums: tests46, datums un laiks 2023-11-28 13:27:17, vārds:L a u r a, vieta:sig
+Eksperimenta nosaukums: tests47, datums un laiks 2023-11-28 13:28:10, vārds:laura, vieta:sig
+Eksperimenta nosaukums: tests48, datums un laiks 2023-11-28 13:28:40, vārds:Laura, vieta:sig
+Eksperimenta nosaukums: tests49, datums un laiks 2023-11-28 13:29:22, vārds:Laura, vieta:sig
+Eksperimenta nosaukums: tests50, datums un laiks 2023-11-28 13:32:11, vārds:Laura, vieta:sig
+Eksperimenta nosaukums: tests51, datums un laiks 2023-11-28 13:38:53, vārds:Laura, vieta:sig
